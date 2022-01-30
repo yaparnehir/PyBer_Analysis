@@ -13,4 +13,7 @@
 >We worked with "python" language on "jupyter notebook" since it is easy to manipulate and demonstrate the result. By using the "Matplotlib" we create a better graphs rather than using the excel and matlab. Some challenges were occured related to merging dataframes. In order not to mix up data, even though working on a merged dataset is easy, in some cases we need to get the datas from the individual datasets.
 ## Results
 >![Analysis](/analysis/PyBer_fare_summary.png)
-asdfsad
+On the graph above we can see the Urban city types far more efficient and beneficial than the other types. Also we can say that after the end of February rides number and fares are increased. In all the different types of cities, the changes are looks similar. On the other hand they all started to decreased at some point by the late times of April. 
+>![Analysis2](/analysis/Fig6.png)
+>Also seen above Urban cities has the most common one to use the ride-sharing app. It may quite easy to say that since there are too many riders, drivers and trips occured in Urban cities, Fares might be dropped than the less common cities. This conclusion can be seen also average fare pie graph.
+>![Analysis2](/analysis/Fig5.png)
